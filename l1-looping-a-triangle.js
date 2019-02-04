@@ -5,3 +5,5 @@ function triangle() {
         console.log(hastags);
     }
 }
+
+triangle();
