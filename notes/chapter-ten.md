@@ -51,5 +51,3 @@ Pluspunt
 
 _Stateful_ object
 https://toddmotto.com/stateful-stateless-components#stateful
-
-#project-tech/summaries/elequentjavascript
